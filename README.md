@@ -3,7 +3,7 @@
     <tr style="border:none;">
       <td width="200" align="center" valign="middle" style="border:none; padding: 15px;">
         <a href="https://github.com/ClearVision2k1">
-          <img src="https://raw.githubusercontent.com/ClearVision2k1/ClearVision2k1/main/assets/profile.png" width="165" height="165" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Eliyas Hasan" />
+          <img src="./assets/profile.png" width="170" height="170" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Eliyas Hasan" />
         </a>
       </td>
       <td align="left" valign="middle" style="border:none; padding: 15px;">
