@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Unified Animated Banner (Right-Side Cutout, Ambient Glow, Gentle Motion) -->
-  <img src="./assets/banner.gif" width="100%" alt="Eliyas Hasan - Web Developer and AI Automation Expert" style="border-radius: 12px;" />
+  <img src="./assets/banner.gif?v=2" width="100%" alt="Eliyas Hasan - Web Developer and AI Automation Expert" style="border-radius: 12px;" />
 
   <br/><br/>
 
