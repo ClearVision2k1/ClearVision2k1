@@ -1,33 +1,26 @@
 <div align="center">
-  <table border="0" style="border:none; border-collapse:collapse;" align="center">
-    <tr style="border:none;">
-      <td width="200" align="center" valign="middle" style="border:none; padding: 15px;">
-        <a href="https://github.com/ClearVision2k1">
-          <img src="./assets/profile.png" width="170" height="170" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Eliyas Hasan" />
-        </a>
-      </td>
-      <td align="left" valign="middle" style="border:none; padding: 15px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&multiline=false&width=550&lines=Eliyas+Hasan" alt="Eliyas Hasan" />
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=false&vCenter=true&multiline=false&width=550&lines=Web+Developer+%7C+AI+Automation+Expert;Building+Intelligent+Automations+%26+Web+Apps;Developing+Smart+Scalable+Digital+Products" alt="Title Typing" />
-        <br/><br/>
-        <p align="left">
-          <a href="https://www.linkedin.com/in/eliyashasan2k1" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
-          <a href="https://www.facebook.com/share/19oDQ3hJhh/" target="_blank">
-            <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-          </a>
-          <a href="mailto:md.elias2k1@gmail.com">
-            <img src="https://img.shields.io/badge/Email-md.elias2k1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-          </a>
-          <a href="https://github.com/ClearVision2k1">
-            <img src="https://img.shields.io/badge/GitHub-ClearVision2k1-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+  <!-- Unified Animated Banner (Right-Side Cutout, Ambient Glow, Gentle Motion) -->
+  <img src="./assets/banner.gif" width="100%" alt="Eliyas Hasan - Web Developer and AI Automation Expert" style="border-radius: 12px;" />
+
+  <br/><br/>
+
+  <!-- Clean Contact & Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/eliyashasan2k1" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.facebook.com/share/19oDQ3hJhh/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="mailto:md.elias2k1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-md.elias2k1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/ClearVision2k1">
+      <img src="https://img.shields.io/badge/GitHub-ClearVision2k1-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
 </div>
 
 ---
